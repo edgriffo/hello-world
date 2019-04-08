@@ -1,12 +1,10 @@
-body {
+body12332 {
     border-color: red;
     border-style: solid;
-    border-width: 1px;
+    border-width: 100px;
   }
-  nav {
-    border-color: red;
-    border-style: solid;
-    border-width: 1px;
+  #navmenu {
+   border-bottom-color: silver;
+   border-bottom-style: solid;
+   border-bottom-width: 2px;
   }
-
-
