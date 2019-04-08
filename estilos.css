@@ -25,6 +25,10 @@ body12332 {
     max-height: 100%;
 }
 
+.minha-div {
+    height: 350px;
+    width: 350px;
+}
 .carouselExampleIndicators {
     height: 50px;
     width: 50px;
