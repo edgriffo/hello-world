@@ -16,10 +16,6 @@
     margin-top: 70px;
 }
 
-
-
-
-
 .minha-div {
     height: 250px;
     width: 250px;
@@ -28,3 +24,14 @@
     margin-right: auto;
     
 }
+
+h1 {
+    text-align: center;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15pt;
+    Font-variant: small-caps;
+
+    
+  }
