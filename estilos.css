@@ -1,5 +1,5 @@
 #navmenu {
-    border-bottom-color: silver;
+    border-bottom-color: white;
     border-bottom-style: solid;
     border-bottom-width: 2px;
    }
@@ -23,7 +23,19 @@
     margin-left: auto;
     margin-right: auto;
     
+    
 }
+
+#carouselExampleSlidesOnly
+{
+    height: 70%;
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 58px;
+}
+
 
 h1 {
     text-align: center;
